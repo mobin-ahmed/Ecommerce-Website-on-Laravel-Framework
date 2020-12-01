@@ -1,0 +1,7 @@
+downloadAndInstallXampp--->https://www.apachefriends.org/download.html
+downloadAndInstallComposer--->https://getcomposer.org/download/
+laraverInstallingCommandOnCmd--->https://laravel.com/docs/7.x
+ecommerceTempleteFrontend--->https://github.com/sohidulIslam353/eshopper
+downloadAndInstallVSCEditor--->https://code.visualstudio.com/download
+ecommerceTempleteBackend--->https://github.com/sohidulIslam353/dashboard
+laravelDatabaseMigrationCommandOnCmd--->https://laravel.com/docs/7.x/migrations#introduction
